@@ -1,5 +1,5 @@
 {
-  "name": "tessel-demo",
+  "name": "tessel-pouchdb-demo",
   "version": "0.0.0",
   "description": "Tessel project",
   "main": "index.js",
